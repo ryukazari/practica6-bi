@@ -1,0 +1,26 @@
+id,casado,tiene_hijos,nro_dpntes,edad,trabaja,tipo_vivienda,hace_deporte,ofrece_seguro
+701,no,si,1,25,si,propia,1,si con condiciones
+305,no,no,0,29,no,familiar,0,no
+203,no,si,1,34,si,propia,0,si
+304,si,si,3,43,si,propia,1,si
+102,si,no,1,51,si,propia,2,si con condiciones
+406,si,si,2,52,si,arrienda,0,no
+507,si,si,4,43,si,arrienda,3,si
+108,no,no,0,33,no,familiar,0,no
+409,si,si,1,27,si,propia,2,si
+180,si,si,1,28,si,propia,3,si con condiciones
+191,si,no,2,50,si,familiar,0,no
+212,no,si,1,34,si,familiar,2,si
+213,si,si,1,42,si,familiar,0,no
+314,si,no,1,40,no,arrienda,0,no
+415,si,si,1,25,si,propia,0,si
+116,si,no,0,39,no,familiar,0,no
+117,si,no,1,31,si,propia,2,si con condiciones
+218,no,no,0,37,si,propia,3,si con condiciones
+519,no,si,1,29,si,familiar,3,si
+120,si,si,1,30,si,propia,0,si
+221,si,no,0,28,si,familiar,1,si con condiciones
+322,no,si,1,27,si,propia,3,si con condiciones
+323,si,si,4,40,si,propia,1,si
+624,no,si,1,36,si,propia,3,si
+125,si,no,0,39,no,familiar,1,no
